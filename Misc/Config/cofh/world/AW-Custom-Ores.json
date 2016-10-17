@@ -1,0 +1,21 @@
+{
+    "magnetite": {
+        "template": {"type":"uniform"},
+        "block": [
+            {"name": "ReactorCraft:reactorcraft_block_ore", "metadata": 8, "weight": 92}
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 16,
+        "minHeight": 5,
+        "maxHeight": 100,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
