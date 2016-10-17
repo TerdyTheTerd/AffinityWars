@@ -1,0 +1,9 @@
+#Permissions for group faction_rank_op
+#DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
+#After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
+#Thu May 19 03:23:59 PDT 2016
+fe.internal.group.priority=16
+fe.faction.ally=true
+fe.faction.friendlyfire=true
+fe.faction.invite=true
+fe.faction.members.*=true

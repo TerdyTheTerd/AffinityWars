@@ -1,0 +1,21 @@
+#Permissions for group Elite
+#DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
+#After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
+#Thu May 19 03:23:59 PDT 2016
+fe.internal.group=true
+fe.internal.group.priority=10
+fe.internal.prefix=&0[&5[Elite]&f
+fe.internal.suffix=&0]&f
+fe.economy.cmdprice.back=0
+fe.economy.command.wallet.modify=false
+fe.economy.command.wallet.others=false
+fe.economy.deathtoll=0
+fe.group.elite=true
+fe.protection.use.RandomThings.spectreKey=true
+fe.teleport.back.ondeath=false
+fe.teleport.cooldown=0
+fe.teleport.personalwarp=true
+fe.teleport.personalwarp.max=5
+fe.teleport.personalwarp.set=true
+fe.teleport.warmup=0
+some.test.permission=false

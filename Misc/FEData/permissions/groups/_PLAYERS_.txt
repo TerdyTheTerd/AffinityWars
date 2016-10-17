@@ -1,0 +1,53 @@
+#Permissions for group _PLAYERS_
+#DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
+#After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
+#Thu May 19 03:23:59 PDT 2016
+fe.internal.group=true
+fe.internal.group.priority=2
+fe.economy.bounty.Bat=1
+fe.economy.bounty.Blaze=5
+fe.economy.bounty.Blitz=5
+fe.economy.bounty.Blizz=5
+fe.economy.bounty.CaveSpider=5
+fe.economy.bounty.Chicken=1
+fe.economy.bounty.Cow=1
+fe.economy.bounty.Creeper=3
+fe.economy.bounty.Enderman=5
+fe.economy.bounty.Ghast=15
+fe.economy.bounty.MutantCreatures.MutantCreeper=50
+fe.economy.bounty.MutantCreatures.MutantEnderman=50
+fe.economy.bounty.MutantCreatures.MutantSkeleton=50
+fe.economy.bounty.MutantCreatures.MutantZombie=50
+fe.economy.bounty.Natura.Imp=1
+fe.economy.bounty.Pig=1
+fe.economy.bounty.PigZombie=7
+fe.economy.bounty.Sheep=1
+fe.economy.bounty.Skeleton=2
+fe.economy.bounty.Spider=2
+fe.economy.bounty.Squid=1
+fe.economy.bounty.Villager=1
+fe.economy.bounty.Witch=5
+fe.economy.bounty.Zombie=3
+fe.economy.bounty.arsmagica2.BossAirGuardian=150
+fe.economy.bounty.arsmagica2.BossArcaneGuardian=200
+fe.economy.bounty.arsmagica2.BossEarthGuardian=100
+fe.economy.bounty.arsmagica2.BossEnderGuardian=500
+fe.economy.bounty.arsmagica2.BossFireGuardian=450
+fe.economy.bounty.arsmagica2.BossLifeGuardian=250
+fe.economy.bounty.arsmagica2.BossLightningGuardian=350
+fe.economy.bounty.arsmagica2.BossNatureGuardian=300
+fe.economy.bounty.arsmagica2.BossWaterGuardian=50
+fe.economy.bounty.arsmagica2.BossWinterGuardian=400
+fe.economy.bounty.arsmagica2.MobDryad=1
+fe.economy.bounty.primitivemobs.LostMiner=1
+fe.economy.bounty.primitivemobs.RocketCreeper=5
+fe.economy.bounty.primitivemobs.SupportCreeper=5
+fe.economy.bounty.primitivemobs.TreasureSlime=10
+fe.protection.exist.DraconicEvolution.dezilsMarshmallow=false
+fe.protection.exist.Mariculture.tanks=false
+fe.protection.place.Mariculture.tanks=false
+fe.protection.use.DraconicEvolution.dezilsMarshmallow=false
+fe.teleport.warp=true
+fe.teleport.warp.warp.portal=true
+fe.teleport.warp.warp.shop=true
+some.test.permission=true

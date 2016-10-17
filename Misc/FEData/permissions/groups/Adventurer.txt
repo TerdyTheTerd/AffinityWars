@@ -1,0 +1,12 @@
+#Permissions for group Adventurer
+#DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
+#After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
+#Thu May 19 03:23:59 PDT 2016
+fe.internal.group=true
+fe.internal.group.priority=25
+fe.economy.command.wallet.modify=false
+fe.economy.command.wallet.others=false
+fe.group.adventurer=true
+fe.teleport.cooldown=0
+fe.teleport.warmup=0
+some.test.permission=false

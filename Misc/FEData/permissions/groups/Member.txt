@@ -1,0 +1,35 @@
+#Permissions for group Member
+#DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
+#After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
+#Thu May 19 03:23:59 PDT 2016
+fe.internal.group=true
+fe.internal.group.priority=20
+fe.internal.prefix=&0[&2[Member]&f
+fe.internal.suffix=&0]&f
+command.me=false
+command.superpickaxe=false
+command.tool=false
+command.worldedit=false
+commnad.schematic=false
+fe.afterlife.deathchest=false
+fe.afterlife.deathchest.fence=false
+fe.chat.nickname=false
+fe.chat.usecolor=false
+fe.commands.push=false
+fe.core.pos.wand=false
+fe.economy.bounty.arsmagica2.MobDryad=10
+fe.economy.cmdprice.back=100
+fe.economy.command.wallet.modify=false
+fe.economy.command.wallet.others=false
+fe.economy.deathtoll=100
+fe.group.elite=false
+fe.group.member=true
+fe.protection.use.RandomThings.spectreKey=false
+fe.protection.use.RandomThins.spectreKey=false
+fe.remote.chat.send=true
+fe.teleport.back.ondeath=false
+fe.teleport.tppos=false
+mytown.cmd.assistant.claim=true
+mytown.cmd.assistant.unclaim=true
+mytown.cmd.outsider.new=true
+some.test.permission=false

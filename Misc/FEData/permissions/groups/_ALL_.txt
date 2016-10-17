@@ -1,0 +1,47 @@
+#Permissions for group _ALL_
+#DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
+#After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
+#Thu May 19 03:23:59 PDT 2016
+fe.internal.group=true
+fe.internal.group.priority=20
+fe.internal.spawn.location=[-966,128,-681,dim\=0]
+command.cofh=true
+command.me=false
+command.superpickaxe=false
+command.tool=false
+command.worldedit=false
+commnad.schematic=false
+fe.afterlife.deathchest=false
+fe.afterlife.deathchest.fence=false
+fe.chat.nickname=false
+fe.chat.usecolor=false
+fe.commands.push=false
+fe.core.pos.wand=false
+fe.economy.cmdprice.back=100
+fe.economy.cmdprice.cofh.clearblocks=100000000
+fe.economy.cmdprice.cofh.countblocks=100000000
+fe.economy.cmdprice.cofh.enchant=100000000
+fe.economy.cmdprice.cofh.killall=100000000
+fe.economy.cmdprice.cofh.reloadworldgen=100000000
+fe.economy.cmdprice.cofh.replaceblocks=100000000
+fe.economy.cmdprice.cofh.syntax=100000000
+fe.economy.cmdprice.cofh.tps=100000000
+fe.economy.cmdprice.cofh.tpx=100000000
+fe.economy.cmdprice.cofh.unloadchunk=100000000
+fe.economy.cmdprice.cofh.version=100000000
+fe.economy.cmdprice.shop.buy.merchant.confirm=10000
+fe.economy.command.wallet.modify=true
+fe.economy.command.wallet.others=true
+fe.economy.deathtoll=100
+fe.protection.place.minecraft.stone.0=true
+fe.protection.use.RandomThings.spectreKey=false
+fe.teleport.back.ondeath=false
+fe.teleport.personalwarp=true
+fe.teleport.personalwarp.max=5
+fe.teleport.personalwarp.set=true
+fe.teleport.tppos=false
+mytown.cmd.assistant.claim=true
+mytown.cmd.assistant.unclaim=true
+mytown.cmd.outsider.new=true
+some.test.permission=true
+zone1=true

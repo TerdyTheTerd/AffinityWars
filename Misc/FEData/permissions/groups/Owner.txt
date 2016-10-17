@@ -1,0 +1,10 @@
+#Permissions for group Owner
+#DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
+#After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
+#Thu May 19 03:23:59 PDT 2016
+fe.internal.group=true
+fe.internal.group.priority=1
+fe.internal.prefix=&0[&5[Owner]&f
+fe.internal.suffix=&0]&f
+*=true
+some.test.permission=false
